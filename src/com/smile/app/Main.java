@@ -41,5 +41,6 @@ public class Main {
         moveFile(orgDir,tarDIr);
         System.out.println("读取到文件数："+fileNum);
         System.out.println("读取到文件夹数："+dirNum);
+        System.out.println("测试！");
     }
 }
